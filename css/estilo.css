@@ -174,3 +174,11 @@ footer{
 	right: 5px;
 	width: 60px;
 }
+@media screen and(max-width 730px){
+	.nav-bar{
+		padding: 1.5rem 4rem;
+	}
+	.nav-item{
+		display: none;
+	}
+}
